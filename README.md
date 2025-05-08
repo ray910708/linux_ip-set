@@ -291,12 +291,6 @@ GUI 元素定義在 `gui/main_window.py` 和 `gui/dialogs.py` 中，可通過以
 
 本項目採用 MIT 許可證，詳情請參閱 LICENSE 文件。
 
-## 11. 聯繫與支持
-
-- **問題報告**：請使用 GitHub Issues
-- **功能請求**：請使用 GitHub Issues 或直接提交合併請求
-- **聯繫開發者**：your.email@example.com
-
 ---
 
 感謝使用 SSH-IP-Adder！此工具旨在簡化網絡管理工作，提高系統管理效率。我們歡迎您的反饋和貢獻。
